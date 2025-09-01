@@ -67,10 +67,8 @@ body {background-color: #fff; position: relative;}
     height: 80vh;
     width: 100%;
     padding: 150px 745px 20px 180px;
-    background: linear-gradient(0deg, rgba(0,0,0,0.5)), url(IMAGES/cover.webp);
+    background: linear-gradient(0deg, rgba(0,0,0,0.5)), url(IMAGES/cover.webp) no-repeat center center;
     background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
     color: #fff;
 }
 
@@ -699,4 +697,5 @@ implementata per una migliore visualizzazione dei download dei Report nella fasc
     .last-report {font-size: 18px; padding-right: 5px;}
     .left-text {font-size: 14px; padding-right: 5px;}
 }
+
 
