@@ -587,8 +587,8 @@ figcaption {
     /*Fine: Footer*/
 
     /* Icona Accessibilità */
-    .accessibility-container {width: 35px; height: 35px; bottom: 20px; left: 20px;}
-    .accessibility-container i {font-size: 50px;}
+    .accessibility-container {width: 40px; height: 40px; bottom: 20px; left: 20px;}
+    .accessibility-container i {font-size: 40px;}
 }
 
 
@@ -697,3 +697,4 @@ implementata per una migliore visualizzazione dei download dei Report nella fasc
     .last-report {font-size: 18px; padding-right: 5px;}
     .left-text {font-size: 14px; padding-right: 5px;}
 }
+
