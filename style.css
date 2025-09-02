@@ -264,7 +264,7 @@ figcaption {
     justify-content: center;
     align-items: center;
     margin-left: 5px;
-    border-radius: 5px;
+    border-radius: 100%;
     background-color: #C79416;
     width: 30px;
     height: 30px;
@@ -715,3 +715,4 @@ implementata per una migliore visualizzazione dei download dei Report nella fasc
     .last-report {font-size: 18px; padding-right: 5px;}
     .left-text {font-size: 14px; padding-right: 5px;}
 }
+
