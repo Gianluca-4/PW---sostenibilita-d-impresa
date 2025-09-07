@@ -1,30 +1,28 @@
 # Analisi della Sostenibilità Aziendale: il caso Ferrero
-Questo progetto è stato realizzato a conclusione del corso di laurea triennale in Informatica per le Aziende Digitali.
-L'obiettivo è stato lo sviluppo di una pagina web dedicata all'analisi della sostenibilità aziendale, prendendo come riferimento il caso studio della Ferrero.
+Questo progetto è stato realizzato come elaborato finale del corso di laurea Informatica per le Aziende Digitali.
+L'obiettivo principale è la realizzazione di una pagina web dedicata alla comunicazione della sostenibilità aziendale, prendendo come riferimento il caso studio della Ferrero.
 
 ## Obiettivi del progetto
-- Applicare le conoscenze acquisite di HTML e CSS acquisite durante il percorso universitario.
-- Realizzare una struttura web ordinata, intuitiva, accessibile e che rifletta visivamente l'impegno dell'azienda verso pratiche produttive sostenibili.
-- Simulare una pagina informativa ispirata alla sezione "Rapporti di Sostenibilità" del sito ufficiale Ferrero, a scopo didattico.
+- Applicare le competenze acquisite in HTML e CSS durante il percorso universitario.
+- Progettare una struttura web ordinata, intuitiva e accessibile, in grado di rappresentare visivamente l'impegno dell'azienda verso pratiche sostenibili.
+- Simulare, a scopo didattico, una pagina informativa ispirata alla sezione "Rapporti di sostenibilità" del sito ufficiale Ferrero.
 
-## Funzionalità principali
-- Presentazione dei valori e degli impegni della Ferrero nel campo della sostenibilità.
-- Sezione per il download dei report ufficiali in formato PDF.
-- Layout responsive e adattivo per desktop, tablet e smartphone.
-- Commenti chiari e concisi all'interno del codice HTML e CSS per favorire la leggibilità tecnica.
+## Introduzione
+- Il codice sorgente dei file HTML e CSS è opportunamente commentato per favorire la comprensione e la leggibilità da parte di chi consulta il repository.
 
-## Tecnologie usate
-- **HTML5** per la struttura semantica della pagina web.
-- **CSS3** per la definizione dello stile, con l'utilizzo di Flexbox, Grid e media queries.
-- **GitHub** per il versionamento e la condivisione del progetto.
-- **Microsoft Copilot IA** per la creazione del logo.
+## Linguaggi utilizzati
+- **HTML5** per la definizione della struttura semantica della pagina.
+- **CSS3** per la progettazione dello stile, con l'impiego di tecniche moderne come Flexbox, CSS Grid e media queries per garantire la responsività.
 
 ## Struttura del progetto
-- 
+- index.html : file principale della pagina web.
+- style.css : foglio di stile associato.
+- IMAGES/ : cartella contenente le immagini utilizzate.
+- File PDF dei report di sostenibilità
 
-## Note importanti
-- I testi presenti sulla pagina web e alcuni dettagli di impostazione sono stati rielaborati per evitare problematiche legate al copyright.
-- Il logo utilizzato è originale e creato appositamente per questo lavoro, per rispettare le normative sul marchio.
+## Nota importante
+Tutti i riferimenti all'azienda Ferrero sono utilizzati esclusivamente a fini didattici.
+Il progetto non è affiliato né sponsorizzato dall'azienda.
 
 ## Autore
 **Gianluca Casano**
