@@ -1,6 +1,6 @@
 # Analisi della Sostenibilità Aziendale: il caso Ferrero
 Questo progetto è stato realizzato come elaborato finale del corso di laurea Informatica per le Aziende Digitali.
-L'obiettivo principale è la realizzazione di una pagina web dedicata alla comunicazione della sostenibilità aziendale, prendendo come riferimento il caso studio della Ferrero.
+L'obiettivo principale è la realizzazione di una pagina web dedicata alla comunicazione della sostenibilità aziendale, prendendo come riferimento il caso studio della Ferrero e consentendo di scaricare i vari report aziendali annuali.
 
 ## Obiettivi del progetto
 - Applicare le competenze acquisite in HTML e CSS durante il percorso universitario.
@@ -18,7 +18,7 @@ L'obiettivo principale è la realizzazione di una pagina web dedicata alla comun
 - index.html : file principale della pagina web.
 - style.css : foglio di stile associato.
 - IMAGES/ : cartella contenente le immagini utilizzate.
-- File PDF dei report di sostenibilità
+- File PDF dei report di sostenibilità.
 
 ## Nota importante
 Tutti i riferimenti all'azienda Ferrero sono utilizzati esclusivamente a fini didattici.
