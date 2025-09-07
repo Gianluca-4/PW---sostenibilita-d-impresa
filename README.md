@@ -1,4 +1,4 @@
-# Analisi della Sostenibilità Aziendale: il caso Ferrero
+# Pagina Web per la Sostenibilità Aziendale: Studio su Ferrero
 Questo progetto è stato realizzato come elaborato finale del corso di laurea Informatica per le Aziende Digitali.
 L'obiettivo principale è la realizzazione di una pagina web dedicata alla comunicazione della sostenibilità aziendale, prendendo come riferimento il caso studio della Ferrero e consentendo di scaricare i vari report aziendali annuali.
 
